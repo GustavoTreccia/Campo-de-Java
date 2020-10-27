@@ -1,4 +1,4 @@
-# O-mundo-magico-do-Java
+# Workbench-Java
 Apenas protótipos e projetos em Java que foram feitos para aprendizado.
 
 Mas o que acontece aqui?
